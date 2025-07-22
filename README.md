@@ -1,0 +1,2 @@
+# Flutter + Laravel Auth With screen
+ Flutter UI for Sign In & Sign Up with Laravel Backend API Authentication This project is a simple Flutter application featuring beautiful Sign In and Sign Up screens connected to a Laravel backend for API-based authentication. It also includes a minimal e-commerce home page design with basic add-to-cart functionality.  ✅ Features:  Flutter Sign In & Sign Up UI  Laravel API authentication (Sanctum/JWT)  Minimal e-commerce home page  Product listing & Add to Cart feature  Clean and responsive UI
