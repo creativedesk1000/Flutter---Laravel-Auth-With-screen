@@ -2,10 +2,6 @@
 
 A simple Flutter app featuring beautiful Sign In and Sign Up screens, connected to a Laravel backend for API-based authentication. Includes a minimal e-commerce home page with product listing and add-to-cart functionality.
 
-![WhatsApp Image 2025-07-22 at 14 40 25_f80f5477](https://github.com/user-attachments/assets/9ab4aaea-318d-4bbc-9214-8622477d90c0)
-![WhatsApp Image 2025-07-22 at 14 41 09_f36d95ba](https://github.com/user-attachments/assets/7f92d29b-d713-4bc2-922e-2c9a5976740c)
-![WhatsApp Image 2025-07-22 at 14 41 06_9d63c479](https://github.com/user-attachments/assets/368e0fb3-5267-4c3c-babd-d28996006b7c)
-![WhatsApp Image 2025-07-22 at 14 40 30_b94e3d08](https://github.com/user-attachments/assets/6b4a078b-50f7-4c17-8ea5-13818bf88c9a)
 
 ## 🚀 Features
 
@@ -31,6 +27,13 @@ A simple Flutter app featuring beautiful Sign In and Sign Up screens, connected 
 
 /flutter_app # Flutter frontend code
 /laravel_backend # Laravel backend API
+
+
+
+![WhatsApp Image 2025-07-22 at 14 40 30_b94e3d08](https://github.com/user-attachments/assets/a641a847-53b2-42b5-9793-14e3da89d26c)
+![WhatsApp Image 2025-07-22 at 14 40 25_f80f5477](https://github.com/user-attachments/assets/1798671b-8d5d-4c00-8633-a3638a3d633a)
+![WhatsApp Image 2025-07-22 at 14 41 09_f36d95ba](https://github.com/user-attachments/assets/e9912089-3991-4bab-ae7a-5fcde12bcbdd)
+![WhatsApp Image 2025-07-22 at 14 41 06_9d63c479](https://github.com/user-attachments/assets/138317ea-cb3a-456b-a9b0-e39b2978ffed)
 
 yaml
 Copy
